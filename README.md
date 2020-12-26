@@ -2,4 +2,4 @@
 
 Leetcode problems solved used C++. 
 
-- Swapnil Patel
+Swapnil Patel
